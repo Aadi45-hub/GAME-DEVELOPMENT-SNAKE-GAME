@@ -134,3 +134,12 @@ Work with a tile/grid-based approach for cleaner movement and visuals.
 
 Use data structures (struct, arrays) to manage multiple game entities.
 
+
+
+
+
+Output
+
+
+![Image](https://github.com/user-attachments/assets/35a643de-4ad6-4575-a21f-563858f6e986)
+
